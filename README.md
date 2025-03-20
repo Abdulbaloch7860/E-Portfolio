@@ -6,7 +6,6 @@ This repository contains my weekly coursework and practical exercises for [Netwo
 
 ## 📌 Weekly Lab Work  
 
-- **Week_1:** [View Folder](Week-1/) 
 - **Week_2:** [View Folder](Week-2/)  
 - **Week_3:** [View Folder](Week-3/) 
 - **Week_4:** [View Folder](Week-4/) 
