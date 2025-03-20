@@ -1,21 +1,25 @@
 # E-Portfolio
 
 # E-Portfolio of Evidence  
-This repository contains my weekly coursework and practical exercises for [Course Name].  
 
-## 📌 Weekly Work  
-- **Week 1:** [View Folder](Week-1/) - Introduction and first exercises  
-- **Week 2:** [View Folder](Week-2/) - Python basics and Jupyter Notebooks  
-- **Week 3:** [View Folder](Week-3/) - Data structures and algorithms  
-- **Week 4:** [View Folder](Week-4/) - Object-oriented programming  
-- **Week 5:** [View Folder](Week-5/) - Mini project and reflections  
+This repository contains my weekly coursework and practical exercises for [Networks and Operationg Systems].  
+
+## 📌 Weekly Lab Work  
+
+- **Week_1:** [View Folder](Week-1/) 
+- **Week_2:** [View Folder](Week-2/)  
+- **Week_3:** [View Folder](Week-3/) 
+- **Week_4:** [View Folder](Week-4/) 
+- **Week_5:** [View Folder](Week-5/) 
+- **Week_6:** [View Folder](Week-6/)
+- **Week_7:** [View Folder](Week-7/)
 
 ## 🚀 How to View My Work  
 1. Click on any weekly folder above.  
-2. Open the Jupyter Notebooks (`.ipynb`) or PDFs to see my progress.  
+2. Open the Jupyter Notebooks  
 
 ## 📢 Notes  
-- This portfolio is public and accessible to the module delivery team.  
+- This portfolio is public 
 - Feedback is welcome!  
 
 ---
